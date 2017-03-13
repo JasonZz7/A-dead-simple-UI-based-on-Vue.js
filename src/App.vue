@@ -1,7 +1,6 @@
 <template>
     <div id="app">
         <users></users>
-        <test></test>
         <!--<test msg="Hiya"></test>-->
         <!--Passing properties to your component~-->
     </div>

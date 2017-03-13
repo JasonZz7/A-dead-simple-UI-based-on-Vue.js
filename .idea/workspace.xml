@@ -44,10 +44,10 @@
       <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="126">
+              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding>
-                <element signature="e#206#242#0" expanded="true" />
+                <element signature="e#184#220#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -232,12 +232,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489404469491</updated>
-      <workItem from="1489404471502" duration="8864000" />
+      <workItem from="1489404471502" duration="9452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8864000" />
+    <option name="totallyTimeSpent" value="9452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1167" y="0" width="796" height="1057" extended-state="0" />
@@ -346,10 +346,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="126">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           <folding>
-            <element signature="e#206#242#0" expanded="true" />
+            <element signature="e#184#220#0" expanded="true" />
           </folding>
         </state>
       </provider>
